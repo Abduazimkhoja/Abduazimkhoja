@@ -22,5 +22,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=gotham)
 
-![Repo Card](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=blue-green)
-
