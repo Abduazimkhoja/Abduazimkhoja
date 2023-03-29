@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
 [![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://https://www.codewars.com/users/Abduazimkhoja)
 
 <h1 align="center">Hello 👋</h1>
