@@ -2,9 +2,12 @@
 ```javascript
 alert("Hello World")
 ```
-## I'm beginner web developer
 
-latest youtube video
+<div id="header" align="right">
+   <img src="https://www.codewars.com/users/Abduazimkhoja/badges/large"/>
+</div>
+#  align="center">Hello 👋
+### align="center">I am a novice web developer 👨‍💻
 
 ### 🛠 &nbsp;Languages and Tools :
 <div align="left">  
@@ -17,4 +20,8 @@ latest youtube video
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-follow me
+---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimxoja&theme=github-dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
+
+<a><img src="https://camo.githubusercontent.com/cf6b1611c3b67ce94d8663a4b6ae14dc135b04a1233cb2bf01200d50aa0ad7b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d676f7468616d"/></a>
