@@ -20,4 +20,4 @@
 ### 🔥 &nbsp; My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=github-dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
 
-![GitHub Stats](https://camo.githubusercontent.com/cf6b1611c3b67ce94d8663a4b6ae14dc135b04a1233cb2bf01200d50aa0ad7b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d676f7468616d)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=gotham)
