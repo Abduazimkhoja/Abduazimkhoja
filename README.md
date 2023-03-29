@@ -21,3 +21,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=github-dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=gotham)
+
+![Repo Card](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=blue-green)
+
