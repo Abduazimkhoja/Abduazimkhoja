@@ -1,5 +1,5 @@
+[![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja)
 
-<div align="right">[![Header](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja)<div>
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a novice web developer 👨‍💻</h3>
 
