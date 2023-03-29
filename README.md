@@ -1,13 +1,10 @@
-![Header](https://i.gifer.com/Vycd.gif)
-```javascript
-alert("Hello World")
-```
 
 <div id="header" align="right">
    <img src="https://www.codewars.com/users/Abduazimkhoja/badges/large"/>
-</div>
-#  align="center">Hello 👋
-### align="center">I am a novice web developer 👨‍💻
+ </div>
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">I am a novice web developer 👨‍💻</h3>
+
 
 ### 🛠 &nbsp;Languages and Tools :
 <div align="left">  
