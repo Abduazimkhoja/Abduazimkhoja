@@ -1,5 +1,4 @@
-
-![Header](https://www.codewars.com/users/Abduazimkhoja/badges/large)
+[![Header](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://codewars.com)
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a novice web developer 👨‍💻</h3>
