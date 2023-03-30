@@ -1,11 +1,11 @@
 
-[![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://https://www.codewars.com/users/Abduazimkhoja)
+[![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja)
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a novice web developer 👨‍💻</h3>
 
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;My languages and Tools :
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -20,5 +20,4 @@
 ### 🔥 &nbsp; My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=github-dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abduazimkhoja&show_icons=true&theme=gotham)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham) -->
