@@ -35,7 +35,7 @@
 
 ![profile card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=gotham)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=github-dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham)
 
