@@ -1,7 +1,7 @@
 <!-- [![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja) -->
 
 <div align="right">
-   <img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "300"/>
+   <a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "300"/></a>
 </div>
 <div align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
