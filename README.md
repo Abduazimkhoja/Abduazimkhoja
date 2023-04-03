@@ -1,7 +1,7 @@
 [![Codewars](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja)
 
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 <h1 align="center">
    hey there
