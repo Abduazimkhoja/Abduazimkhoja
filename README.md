@@ -46,11 +46,13 @@
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
 
 
-<div>
-   <img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "100%"/>
+<div align = "center">
+   <img  alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "80%"/>
 </div>
+---
+
 <div class = "stats">
-   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "45%"/> <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "45%"/>
+   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "48%"/> <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "48%"/>
 </div>
 
 ---
