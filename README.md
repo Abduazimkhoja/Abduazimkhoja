@@ -1,11 +1,13 @@
-<marquee align="right" width="310" behavior="alternate" scrollamount="1">
-<a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "300"/></a>
-</marquee>
+
+<div align="right">
+<a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "400"/></a>
+</div>
+&nbsp;
 
 <div align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
-<h1 align="center">
+<h1 align="center" >
    hey there
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
