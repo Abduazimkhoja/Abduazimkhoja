@@ -17,8 +17,8 @@
 ### 📚 &nbsp;My languages :
 
 <div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" alt="HTML5" height="50" /></a> &nbsp; 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" alt="CSS3" height="50" /></a> &nbsp; &nbsp;   
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" height="50" /></a> &nbsp; 
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" height="50" /></a> &nbsp; &nbsp;  
 <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> &nbsp; &nbsp;   
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; &nbsp;
 <a href="https://www.React.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="50" /></a> &nbsp; &nbsp;
