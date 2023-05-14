@@ -37,9 +37,12 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<div align = "center">
-   <img  alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "80%"/>
-</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "65%"/>
+<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham" width = "34%"/>
+
 
 <br>
 <br>
