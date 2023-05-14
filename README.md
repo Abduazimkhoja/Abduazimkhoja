@@ -21,6 +21,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> &nbsp; &nbsp;   
 <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> &nbsp; &nbsp;   
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; &nbsp;
+<a href="https://www.React.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a> &nbsp; &nbsp;
 
 ### 🛠 &nbsp;My tools :
 
