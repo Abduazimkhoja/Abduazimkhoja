@@ -1,4 +1,3 @@
-
 <div align="right">
 <a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "400"/></a>
 </div>
@@ -40,14 +39,15 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "65%"/>
-<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham" width = "34%"/>
-
+<div>
+<img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "63%"/>
+<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduazimkhoja&layout=compact&theme=gotham" width = "33%"/>
+</div>
 
 <br>
 <br>
 
-<div class = "stats">
+<div>
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "48%"/> <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "48%"/>
 </div>
 
