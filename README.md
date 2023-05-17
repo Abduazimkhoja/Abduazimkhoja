@@ -9,16 +9,20 @@
 <h1 align="center" >
    Hey there
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<br>
+<br>
    I am a novice web developer 👨‍💻
 </h1>
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥
+<br>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react)](https://skillicons.dev" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github," />
-
+    <img width="500" src="https://skillicons.dev/icons?i=html,css,sass,js,react)](https://skillicons.dev" />
+    <br>
+    <img width="800" src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github," />
 </div>
+</h2>
 <br>
 <div class = 'snake'>
    <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
