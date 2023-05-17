@@ -18,9 +18,9 @@
 <br>
 <br>
 <div align="center">
-    <img width="500" src="https://skillicons.dev/icons?i=html,css,sass,js,react)](https://skillicons.dev" />
+    <img width="300" src="https://skillicons.dev/icons?i=html,css,sass,js,react)](https://skillicons.dev" />
     <br>
-    <img width="800" src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github," />
+    <img width="500" src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github," />
 </div>
 </h2>
 <br>
