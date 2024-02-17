@@ -14,7 +14,7 @@
    I am a novice web developer 👨‍💻
 </h1>
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥
+<h2 align="center">🔥 Languages, Frameworks, Tools 🔥
 <br>
 <br>
 <div align="center">
