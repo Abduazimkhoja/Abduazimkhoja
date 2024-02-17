@@ -7,24 +7,21 @@
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 <h1 align="center" >
-   Hey there
+   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<br>
-<br>
+
 <h1 align="center" >
    I am a novice web developer 👨‍💻
 </h1>
-
 <h2 align="center">🔥 Languages, Frameworks, Tools 🔥</h2>
 <br>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,ts" alt="html,css,sass,js,react,styledcomponents,ts"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github,netlify,postgres" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,gulp,vscode,github,netlify,postgres" alt="figma,photoshop,illustrator,git,gulp,vscode,github,netlify,postgres"/>
 </div>
-</h2>
+
 <br>
 <div class = 'snake'>
    <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
@@ -32,7 +29,9 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats :
+
+<br>
 
 <div>
 <img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduazimkhoja&theme=gotham" width = "63%"/>
