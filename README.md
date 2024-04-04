@@ -7,12 +7,9 @@
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 <h1 align="center" >
-   Hey there
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<br>
-<br>
-   I am a novice web developer 👨‍💻
+   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 # 🔥 Languages-Frameworks-Tools
 
@@ -48,6 +45,7 @@
 <!-- prepros, avocode, -->
 
 <!-- <br>
+>>>>>>> 0a75ae26444fbb6384b14566f9546f9ba035505a
 <div class = 'snake'>
    <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
 </div> -->
@@ -57,8 +55,6 @@
 ---
 
 <br/>
-
-
 
 # 🔥 My Stats :
 
@@ -76,6 +72,7 @@
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
    <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "47%"/>
 </div>
+<!-- leetcode [![abduazimkhoja's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abduazimkhoja&theme=dark)](https://github.com/abduazimkhoja/leetcode-stats) -->
 
 <br/>
 
