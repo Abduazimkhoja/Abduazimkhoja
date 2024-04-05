@@ -105,7 +105,7 @@
         <a href="https://rolling-scopes-school.github.io/abduazimkhoja-JSFE2023Q4/coffee-house/index.html" target="_blank" rel="noopener noreferrer">view »</a>
       </td>
       <td>
-        <a href="http://o.com" target="_blank" rel="noopener noreferrer">view »</a>
+        <a href="https://greenery-bunker.netlify.app" target="_blank" rel="noopener noreferrer">view »</a>
       </td>
 </tr>
 </tbody>
@@ -139,7 +139,7 @@
     <tr>
       <td>
           <a href="https://github.com/Abduazimkhoja/Amazon-frontend" target="_blank" rel="noopener noreferrer">frontend »</a>
-          &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+          &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
           <a href="https://github.com/Abduazimkhoja/Amazon-backend" target="_blank" rel="noopener noreferrer">backend »</a>
       </td>
       <td>
