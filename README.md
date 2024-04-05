@@ -138,7 +138,9 @@
     </tr> -->
     <tr>
       <td>
-        <a href="http://o.com" target="_blank" rel="noopener noreferrer">view code »</a>
+          <a href="https://github.com/Abduazimkhoja/Amazon-frontend" target="_blank" rel="noopener noreferrer">frontend »</a>
+          &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+          <a href="https://github.com/Abduazimkhoja/Amazon-backend" target="_blank" rel="noopener noreferrer">backend »</a>
       </td>
       <td>
         <a href="http://o.com" target="_blank" rel="noopener noreferrer"></a>
