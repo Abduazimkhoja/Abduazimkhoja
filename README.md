@@ -82,16 +82,16 @@
 <tbody>
     <tr>
       <td>
-        <img src="https://i.ibb.co/wC4Jyw6/novaplastik-1440x1700-rounded-minify.png" alt="nova">
+        <img src="https://i.ibb.co/vBDgkb0/novaplastik-1440x1700-rounded-minify.webp" alt="nova">
       </td>
       <td>
-        <img src="https://i.ibb.co/ZBP7sQX/houzing-1440x1700-rounded-minify.png" alt="houzing">
+        <img src="https://i.ibb.co/74V43SG/houzing-1440x1700-rounded-minify.webp" alt="houzing">
       </td>
       <td>
-        <img src="https://i.ibb.co/BwZnWpR/coffee-house-1440-1700-rounded-minify.png" alt="coffee house">
+        <img src=https://i.ibb.co/y0Ypbwc/coffee-house-1440-1700-rounded-minify.webp" alt="coffee house">
       </td>
       <td>
-        <img src="https://i.ibb.co/9Yhdv0V/greenery-1440x1700-rounded-minify.png" alt="greenery">
+        <img src="https://i.ibb.co/Rjt019V/greenery-1440x1700-rounded-minify.webp" alt="greenery">
       </td>
     </tr>
     <tr>
