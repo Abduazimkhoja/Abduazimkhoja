@@ -20,30 +20,30 @@
 
 -->
 
-![languages](https://skillicons.dev/icons?i=html,css,js)
+![languages](https://skillicons.dev/icons?i=html,css,js "HTML, CSS, JavaScript")
 
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | -->
 
-![languages](https://skillicons.dev/icons?i=react,sass,ts)
+![languages](https://skillicons.dev/icons?i=react,sass,ts "React, SASS, TypeScript")
 
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | -->
 
-![languages](https://skillicons.dev/icons?i=next,tailwind)
+![languages](https://skillicons.dev/icons?i=next,tailwind "Next, Tailwind")
 
 -  ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,figma,git,pwsh)
+![Tools](https://skillicons.dev/icons?i=vscode,figma,git,pwsh "Visual Studio Code, Figma, Git, Powershell")
 
 -  ### Other
 
-![backend](https://skillicons.dev/icons?i=nest,prisma,)
-![database](https://skillicons.dev/icons?i=postgres,postman,)
-![sites](https://skillicons.dev/icons?i=netlify,vercel)
+![backend](https://skillicons.dev/icons?i=nest,prisma, "Nest, Prisma")
+![database](https://skillicons.dev/icons?i=postgres,postman, "Postgres, Postman, TablePlus, Beekeper Studio")
+![sites](https://skillicons.dev/icons?i=netlify,vercel "Netlify, Vercel")
 
 -  ### I've used it before
 
-![tools](https://skillicons.dev/icons?i=sublime,gulp)
-![design](https://skillicons.dev/icons?i=ps,ai)
+![tools](https://skillicons.dev/icons?i=sublime,gulp, "Subline, Gulp")
+![design](https://skillicons.dev/icons?i=ps,ai "Photoshop, illustrator")
 
 <!-- prepros, avocode, -->
 
