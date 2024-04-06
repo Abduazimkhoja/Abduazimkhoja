@@ -37,15 +37,12 @@
 -  ### Other
 
 ![backend](https://skillicons.dev/icons?i=nest,prisma,)
-
 ![database](https://skillicons.dev/icons?i=postgres,postman,)
-
 ![sites](https://skillicons.dev/icons?i=netlify,vercel)
 
 -  ### I've used it before
 
 ![tools](https://skillicons.dev/icons?i=sublime,gulp)
-
 ![design](https://skillicons.dev/icons?i=ps,ai)
 
 <!-- prepros, avocode, -->
