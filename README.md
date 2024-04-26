@@ -65,94 +65,171 @@
 # 🔥 Projects
 
 <!-- 1440x1700 -->
-
 <table cellspacing="0" cellpadding="">
-<thead>
-  <tr>
-    <th colspan=4 ><center><h3>Complete</h3></center></th>
-  </tr>
-    <tr>
-      <!-- <th width="25%">Amazon</th> -->
-      <th width="25%"><center>Nova plastic</center></th>
-      <th width="25%"><center>Houzing</center></th>
-      <th width="25%"><center>Coffee House</center></th>
-      <th width="25%"><center>Greenery</center></th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-      <td>
-        <img src="https://i.ibb.co/vBDgkb0/novaplastik-1440x1700-rounded-minify.webp" alt="nova">
-      </td>
-      <td>
-        <img src="https://i.postimg.cc/4y19hjKs/houzing-1440x1700-rounded-minify.webp" alt="houzing">
-      </td>
-      <td>
-        <img src="https://i.ibb.co/y0Ypbwc/coffee-house-1440-1700-rounded-minify.webp" alt="coffee house">
-      </td>
-      <td>
-        <img src="https://i.postimg.cc/sxzWx3gT/greenery-1440x1700-rounded-minify.webp" alt="greenery">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://novaplastik.uz/" target="_blank" rel="noopener noreferrer">view »</a>
-      </td>
-      <td>
-        <a href="https://houzing-full.netlify.app/home" target="_blank" rel="noopener noreferrer">view »</a>
-      </td>
-      <td>
-        <a href="https://rolling-scopes-school.github.io/abduazimkhoja-JSFE2023Q4/coffee-house/index.html" target="_blank" rel="noopener noreferrer">view »</a>
-      </td>
-      <td>
-        <a href="https://greenery-bunker.netlify.app" target="_blank" rel="noopener noreferrer">view »</a>
-      </td>
-</tr>
-</tbody>
+  <thead>
+     <tr>
+        <th colspan="4">
+           <center><h3>Complete</h3></center>
+        </th>
+     </tr>
+  </thead>
+  <tbody>
+     <tr>
+        <th width="25%"><center>Nova plastic</center></th>
+        <th width="25%"><center>Amazon</center></th>
+        <th width="25%"><center>Houzing</center></th>
+        <th width="25%"><center>Coffee House</center></th>
+     </tr>
+     <tr>
+        <td>
+           <img
+              src="https://i.ibb.co/vBDgkb0/novaplastik-1440x1700-rounded-minify.webp"
+              alt="nova"
+           />
+        </td>
+        <td>
+           <img src="https://i.postimg.cc/HL089d3T/amazon-1440x1700-rounded-minify.webp" alt="Amazon" />
+        </td>
+        <td>
+           <img
+              src="https://i.postimg.cc/4y19hjKs/houzing-1440x1700-rounded-minify.webp"
+              alt="houzing"
+           />
+        </td>
+        <td>
+           <img
+              src="https://i.ibb.co/y0Ypbwc/coffee-house-1440-1700-rounded-minify.webp"
+              alt="coffee house"
+           />
+        </td>
+     </tr>
+     <tr>
+        <td>
+           <a
+              href="https://novaplastik.uz/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >view »</a
+           >
+        </td>
+        <td>
+           <a
+              href="https://amazon-v01.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >view »</a
+           >
+        </td>
+        <td>
+           <a
+              href="https://houzing-full.netlify.app/home"
+              target="_blank"
+              rel="noopener noreferrer"
+              >view »</a
+           >
+        </td>
+        <td>
+           <a
+              href="https://rolling-scopes-school.github.io/abduazimkhoja-JSFE2023Q4/coffee-house/index.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >view »</a
+           >
+        </td>
+     </tr>
+  </tbody>
 
   <thead>
-    <tr>
-      <th colspan=4 ><center><h3>Currently in Development</h3></center></th>
-    </tr>
-    <tr>
-      <th width="25%"><center>Amazon</center></th>
-      <th width="25%"><center>Onur</center></th>
-      <th width="25%"><center>Ease Get</center></th>
-      <th width="25%"><center>-</center></th>
-    </tr>
-</thead>
-<tbody>
-    <!-- <tr>
-      <td>
-        <img src="https://i.ibb.co/wC4Jyw6/novaplastik-1440x1700-rounded-minify.png" alt="nova">
-      </td>
-      <td>
-        <img src="https://i.ibb.co/ZBP7sQX/houzing-1440x1700-rounded-minify.png" alt="houzing">
-      </td>
-      <td>
-        <img src="https://i.ibb.co/BwZnWpR/coffee-house-1440-1700-rounded-minify.png" alt="coffee house">
-      </td>
-      <td>
-        <img src="https://i.ibb.co/9Yhdv0V/greenery-1440x1700-rounded-minify.png" alt="greenery">
-      </td>
-    </tr> -->
-    <tr>
-      <td>
-          <a href="https://github.com/Abduazimkhoja/Amazon-frontend" target="_blank" rel="noopener noreferrer">frontend »</a>
-          &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-          <a href="https://github.com/Abduazimkhoja/Amazon-backend" target="_blank" rel="noopener noreferrer">backend »</a>
-      </td>
-      <td>
-        <a href="http://o.com" target="_blank" rel="noopener noreferrer"></a>
-      </td>
-      <td>
-        <a href="http://o.com" target="_blank" rel="noopener noreferrer"></a>
-      </td>
-      <td>
-        <a href="http://o.com" target="_blank" rel="noopener noreferrer"></a>
-      </td>
-    </tr>
-</tbody>
+     <tr>
+        <th width="25%"><center>Greenery</center></th>
+        <th width="25%"><center>-</center></th>
+        <th width="25%"><center>-</center></th>
+        <th width="25%"><center>-</center></th>
+     </tr>
+  </thead>
+  <tbody>
+     <tr>
+        <td>
+           <img
+              src="https://i.postimg.cc/sxzWx3gT/greenery-1440x1700-rounded-minify.webp"
+              alt="greenery"
+           />
+        </td>
+        <td>
+           <!-- <img src="" alt="-"> -->
+        </td>
+        <td>
+           <!-- <img src="" alt="-"> -->
+        </td>
+        <td>
+           <!-- <img src="" alt="-"> -->
+        </td>
+     </tr>
+     <tr>
+        <td>
+           <a
+              href="https://greenery-bunker.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              >view »</a
+           >
+        </td>
+        <td>
+           <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
+        </td>
+        <td>
+           <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
+        </td>
+        <td>
+           <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
+        </td>
+     </tr>
+  </tbody>
+  <thead>
+     <tr>
+        <th colspan="4">
+           <center><h3>Currently in Development</h3></center>
+        </th>
+     </tr>
+     <tr>
+        <th width="25%"><center>Onur</center></th>
+        <th width="25%"><center>Ease Get</center></th>
+        <th width="25%"><center>-</center></th>
+        <th width="25%"><center>-</center></th>
+     </tr>
+  </thead>
+  <tbody>
+     <tr>
+        <td>
+           <a
+              href="http://o.com"
+              target="_blank"
+              rel="noopener noreferrer"
+           ></a>
+        </td>
+        <td>
+           <a
+              href="http://o.com"
+              target="_blank"
+              rel="noopener noreferrer"
+           ></a>
+        </td>
+        <td>
+           <a
+              href="http://o.com"
+              target="_blank"
+              rel="noopener noreferrer"
+           ></a>
+        </td>
+        <td>
+           <a
+              href="http://o.com"
+              target="_blank"
+              rel="noopener noreferrer"
+           ></a>
+        </td>
+     </tr>
+  </tbody>
 </table>
 
 <br/>
