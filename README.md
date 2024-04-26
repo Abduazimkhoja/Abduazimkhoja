@@ -14,44 +14,32 @@
 
 -  ### My Languages
 
-<!--
-
-![languages](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,tailwind,ts,next)
-
--->
-
-![languages](https://skillicons.dev/icons?i=html,css,js "HTML, CSS, JavaScript")
+![languages](https://skillicons.dev/icons?i=,html,css,js "HTML, CSS, JavaScript")
 
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | -->
 
-![languages](https://skillicons.dev/icons?i=react,sass,ts "React, SASS, TypeScript")
+![languages](https://skillicons.dev/icons?i=,react,sass,ts "React, SASS, TypeScript")
 
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | -->
 
-![languages](https://skillicons.dev/icons?i=next,tailwind "Next, Tailwind")
+![languages](https://skillicons.dev/icons?i=,next,tailwind "Next, Tailwind")
 
 -  ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,figma,git,pwsh "Visual Studio Code, Figma, Git, Powershell")
+![Tools](https://skillicons.dev/icons?i=,vscode,figma,git,pwsh "Visual Studio Code, Figma, Git, Powershell")
 
 -  ### Other
 
-![backend](https://skillicons.dev/icons?i=nest,prisma, "Nest, Prisma")
-![database](https://skillicons.dev/icons?i=postgres,postman, "Postgres, Postman, TablePlus, Beekeper Studio")
-![sites](https://skillicons.dev/icons?i=netlify,vercel "Netlify, Vercel")
+![backend](https://skillicons.dev/icons?i=,nest,prisma "Nest, Prisma")
+![database](https://skillicons.dev/icons?i=,postgres,postman "Postgres, Postman, TablePlus, Beekeper Studio")
+![sites](https://skillicons.dev/icons?i=,netlify,vercel "Netlify, Vercel")
 
 -  ### I've used it before
 
-![tools](https://skillicons.dev/icons?i=sublime,gulp, "Subline, Gulp")
-![design](https://skillicons.dev/icons?i=ps,ai "Photoshop, illustrator")
+![tools](https://skillicons.dev/icons?i=,sublime,gulp "Subline, Gulp")
+![design](https://skillicons.dev/icons?i=,ps,ai "Photoshop, illustrator")
 
 <!-- prepros, avocode, -->
-
-<!-- <br>
-
-<div class = 'snake'>
-   <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
-</div> -->
 
 <br/>
 
@@ -66,7 +54,7 @@
   <thead>
      <tr>
         <th colspan="4">
-           <center><h3>Complete</h3></center>
+           <center><h3>You can see</h3></center>
         </th>
      </tr>
   </thead>
@@ -191,7 +179,7 @@
      <tr>
         <th width="25%"><center>Onur</center></th>
         <th width="25%"><center>Ease Get</center></th>
-        <th width="25%"><center>-</center></th>
+        <th width="25%"><center>Amazon-2</center></th>
         <th width="25%"><center>-</center></th>
      </tr>
   </thead>
@@ -199,28 +187,28 @@
      <tr>
         <td>
            <a
-              href="http://o.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
            ></a>
         </td>
         <td>
            <a
-              href="http://o.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
            ></a>
         </td>
         <td>
            <a
-              href="http://o.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
            ></a>
         </td>
         <td>
            <a
-              href="http://o.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
            ></a>
@@ -250,7 +238,8 @@
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
    <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "47%"/>
 </div>
-<!-- leetcode [![abduazimkhoja's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abduazimkhoja&theme=dark)](https://github.com/abduazimkhoja/leetcode-stats) -->
+
+<!-- [![abduazimkhoja's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abduazimkhoja&theme=dark)](https://github.com/abduazimkhoja/leetcode-stats) -->
 
 <br/>
 
@@ -259,16 +248,3 @@
 ```javascript
 if (isProgrammer) return 'Best people';
 ``` -->
-
-<!--
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> -->
