@@ -83,7 +83,7 @@
         </td>
         <td>
            <img
-              src="https://i.ibb.co/y0Ypbwc/coffee-house-1440-1700-rounded-minify.webp"
+              src="https://i.ibb.co/F0BgPMx/coffee-house-1440-1700-rounded-minify.webp"
               alt="coffee house"
            />
         </td>
