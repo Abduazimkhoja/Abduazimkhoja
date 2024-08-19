@@ -78,7 +78,7 @@
         </td>
         <td>
            <img
-              src=" https://i.postimg.cc/bJvY7HQD/daymall-1440x1700-rounded-minify.webp"
+              src="https://i.postimg.cc/bJvY7HQD/daymall-1440x1700-rounded-minify.webp"
               alt="daymall"
            />
         </td>
