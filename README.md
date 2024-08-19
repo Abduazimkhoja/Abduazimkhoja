@@ -58,6 +58,66 @@
         </th>
      </tr>
   </thead>
+
+<tbody>
+     <tr>
+        <th width="25%"><center>Bright Gallery (admin)</center></th>
+        <th width="25%"><center>The Tech (admin)</center></th>
+        <th width="25%"><center>Daymall (admin)</center></th>
+        <th width="25%"><center>-</center></th>
+     </tr>
+     <tr>
+        <td>
+           <img
+              src="https://i.postimg.cc/T3h6R4Hq/bright-gallery-1440x1700-rounded-minify.webp"
+              alt="brigth"
+           />
+        </td>
+        <td>
+           <img src="https://i.postimg.cc/zBYZFXD0/the-tech-1440x1700-rounded-minify.webp" alt="the tech" />
+        </td>
+        <td>
+           <img
+              src=" https://i.postimg.cc/bJvY7HQD/daymall-1440x1700-rounded-minify.webp"
+              alt="daymall"
+           />
+        </td>
+        <td>
+           <!-- <img
+              src="https://i.ibb.co/F0BgPMx/coffee-house-1440-1700-rounded-minify.webp"
+              alt="coffee house"
+           /> -->
+        </td>
+     </tr>
+     <tr>
+        <td>
+           <a
+              href=""
+              target="_blank"
+              rel="noopener noreferrer"
+              >video »</a
+           >
+        </td>
+        <td>
+           <a
+              href=""
+              target="_blank"
+              rel="noopener noreferrer"
+              >video »</a
+           >
+        </td>
+        <td>
+           <a
+              href=""
+              target="_blank"
+              rel="noopener noreferrer"
+              >video »</a
+           >
+        </td>
+        <td></td>
+     </tr>
+  </tbody>
+
   <tbody>
      <tr>
         <th width="25%"><center>Nova plastic</center></th>
