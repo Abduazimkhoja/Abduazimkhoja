@@ -58,8 +58,7 @@
         </th>
      </tr>
   </thead>
-
-<tbody>
+<!-- <tbody>
      <tr>
         <th width="25%"><center>Bright Gallery (admin)</center></th>
         <th width="25%"><center>The Tech (admin)</center></th>
@@ -83,10 +82,10 @@
            />
         </td>
         <td>
-           <!-- <img
+           <img
               src="https://i.ibb.co/F0BgPMx/coffee-house-1440-1700-rounded-minify.webp"
               alt="coffee house"
-           /> -->
+           />
         </td>
      </tr>
      <tr>
@@ -116,8 +115,7 @@
         </td>
         <td></td>
      </tr>
-  </tbody>
-
+  </tbody> -->
   <tbody>
      <tr>
         <th width="25%"><center>Nova plastic</center></th>
